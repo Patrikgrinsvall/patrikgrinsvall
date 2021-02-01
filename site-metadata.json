@@ -10,7 +10,8 @@
                 "label": "Home",
                 "url": "/",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "arrow-right"
             },
             {
                 "label": "Features",
