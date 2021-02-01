@@ -2,7 +2,6 @@
     "base_font": "system-sans",
     "palette": "green",
     "header": {
-        "logo_img": "images/LOGO_NEW.png",
         "logo_img_alt": "Silent Ridge Media",
         "has_nav": true,
         "nav_links": [
