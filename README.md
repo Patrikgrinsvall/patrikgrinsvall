@@ -11,8 +11,8 @@
 ## Celebrating 30 years of programming and computer science
 
 ### Are or have worked professionally with the following technologies and tools
-<img align="left" alt="php" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/php.svg" />
-<img align="left" alt="laravel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/laravel.svg" />
+<img align="left" alt="php" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/php.svg" />  PHP |
+<img align="left" alt="laravel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/laravel.svg" /> Laravel |
 
 
 
