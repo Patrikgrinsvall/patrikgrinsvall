@@ -10,12 +10,10 @@
 ## ⭐️ Celebrating 30 years of programming and computer science ⭐️
 
 ### Professional with the following technologies and tools <br/><p>
-<span>
-  <img alt="php" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/php.svg" />  *PHP* 
-</span>
-<span>
-  <img align="left" alt="Laravel" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/laravel.svg" /> *Laravel* |
-</span>
+<p>
+  PHP <img alt="php" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/php.svg" /> 
+  LARAVEL <img alt="Laravel" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/laravel.svg" />
+</p>
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
