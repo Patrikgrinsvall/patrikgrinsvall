@@ -15,7 +15,7 @@ Developer, Freelancer and owner of Silent Ridge Media. Celebrating 30 years of p
 But not limited to
 
 
-+++
+++++++
 ### Programming and libraries
 **PHP** <img alt="php" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />  **|** 
 **NODEJS** <img alt="NODEJS" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/node-dot-js.svg" /> **|** 
