@@ -1,4 +1,5 @@
 # ✨ Patrik Grinsvall ✨
+## Contact
 <a href="https://www.linkedin.com/in/patrikgrinsvall/">
   <img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
@@ -6,13 +7,7 @@
   <img align="left" alt="'Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 
-
-## ⭐️ Celebrating 30 years of programming and computer science ⭐️
-
-### Professional with the following technologies and tools
-
-
-
+## Toolbox
 **PHP** <img alt="php" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />  **|** 
 **LINUX**<img alt="LINUX" valign="bottom" height="32px" style="background-color:red" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" /> **|** 
 **UBUNTU**<img alt="UBUNTU" valign="bottom" height="32px" style="text :red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ubuntu.svg" /> **|** 
@@ -49,14 +44,13 @@
 **RSA PKI CRYPTOGRAPHY**<img alt="RSA PKI CRYPTOGRAPHY" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/rsa/rsa-icon.svg" /> **|** 
 **GIT**<img alt="GIT" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> **|** 
 
-<br/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-**Current Status Quo**
+## Current status
 
-- 💬 Open for development or consultancy oppertunities, dont hesitate to message me.
-- 📫 Contact me at patrik@silentridge.io for inquries
-- 👀 
+- 💬 Freelancer Open to discuss projects, don't hesitate to message me.
+- ⭐️ [Patrikgrinsvall](https://github.com/patrikgrinsvall)
+- ⭐️ [Patrikgrinsvall](https://github.com/silentpatrik)
 
-⭐️ From [Patrikgrinsvall](https://github.com/patrikgrinsvall)
-⭐️ From [Patrikgrinsvall](https://github.com/silentpatrik)
+
+
+
