@@ -11,8 +11,8 @@
 
 ### Professional with the following technologies and tools
 
-**PHP** <img alt="php" valign="bottom" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/php.svg" /> 
-**LARAVEL**<img alt="Laravel" valign="bottom" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/laravel.svg" />
+**PHP** <img alt="php" valign="bottom" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/php.svg" />  **|** 
+**LARAVEL**<img alt="Laravel" valign="bottom" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/laravel.svg" /> **|** 
 
 
 <br/>
