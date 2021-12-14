@@ -11,9 +11,9 @@
 
 ### Professional with the following technologies and tools
 
-<span style="color:blue">some *This is Blue italic.* text</span>
 
-**PHP** <img alt="php" valign="bottom" height="24px" style="color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/php.svg" />  **|** 
+
+**PHP** <img alt="php" valign="bottom" height="24px" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" />  **|** 
 **LINUX**<img alt="Laravel" valign="bottom" height="24px" style="background-color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linux.svg" /> **|** 
 **UBUNTU**<img alt="Laravel" valign="bottom" height="24px" style="text :red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ubuntu.svg" /> **|** 
 **DEBIAN**<img alt="Laravel" valign="bottom" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/debian.svg" /> **|** 
