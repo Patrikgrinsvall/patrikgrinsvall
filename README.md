@@ -16,7 +16,7 @@ But not limited to
 
 
 _____________________________
-### Programming and libraries
+### Programming, Libraries and development tools
 **PHP** <img alt="php" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />  **|** 
 **NODEJS** <img alt="NODEJS" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/node-dot-js.svg" /> **|** 
 **NPM** <img alt="NPM" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" /> **|** 
