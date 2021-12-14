@@ -42,10 +42,10 @@
 **SASS**<img alt="SASS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" /> **|** 
 **WORDPRESS**<img alt="WORDPRESS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" /> **|** 
 **WOOCOMMERCE**<img alt="WOOCOMMERCE" valign="bottom" height="32px" src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/woocommerce.svg" /> **|** 
-**ZEND FRAMEWORK**<img alt="ZEND FRAMEWORK" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/zendframework/zendframework-icon.svg" /> **|** 
+
 **AWS**<img alt="AWS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" /> **|** 
 **DIGITAL OCEAN**<img alt="DIGITAL OCEAN" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" /> **|** 
-**BLENDER 3D**<img alt="BLENDER 3D" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" /> **|** 
+**BLENDER**<img alt="BLENDER 3D" valign="bottom" height="32px" src="https://raw.githubusercontent.com/shgysk8zer0/logos/2a5430335860a50c788905cf2f253b39278819ce/blender.svg" /> **|** 
 **RSA PKI CRYPTOGRAPHY**<img alt="RSA PKI CRYPTOGRAPHY" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/rsa/rsa-icon.svg" /> **|** 
 **GIT**<img alt="GIT" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> **|** 
 
