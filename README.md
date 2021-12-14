@@ -15,7 +15,7 @@ Developer, Freelancer and owner of Silent Ridge Media. Celebrating 30 years of p
 But not limited to
 
 
-
++++
 ### Programming and libraries
 **PHP** <img alt="php" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />  **|** 
 **NODEJS** <img alt="NODEJS" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/node-dot-js.svg" /> **|** 
@@ -32,7 +32,7 @@ But not limited to
 
 
 
-
++++
 ### Frontend and Computer Graphics
 **HTML** <img alt="HTML" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> **|** 
 **CSS** <img alt="CSS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" /> **|** 
@@ -42,7 +42,7 @@ But not limited to
 
 
 
-
++++
 ### Databases and Storage
 **REDIS** <img alt="REDIS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" /> **|** 
 **MYSQL** <img alt="MYSQL" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /> **|** 
@@ -52,7 +52,7 @@ But not limited to
 
 
 
-
++++
 ### Servers, Infrastructure, Devops and other tools
 **AWS** <img alt="AWS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" /> **|** 
 **DIGITAL OCEAN** <img alt="DIGITAL OCEAN" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" /> **|** 
@@ -69,7 +69,7 @@ But not limited to
 
 
 
-
++++
 ## Current status
 
 - 💬 Open to discuss projects, don't hesitate to contact me!
