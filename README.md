@@ -47,6 +47,7 @@
 **DIGITAL OCEAN**<img alt="DIGITAL OCEAN" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" /> **|** 
 **BLENDER 3D**<img alt="BLENDER 3D" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" /> **|** 
 **RSA PKI CRYPTOGRAPHY**<img alt="RSA PKI CRYPTOGRAPHY" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/rsa/rsa-icon.svg" /> **|** 
+**GIT**<img alt="GIT" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> **|** 
 
 <br/>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
