@@ -16,10 +16,10 @@
 **PHP** <img alt="php" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />  **|** 
 **LINUX**<img alt="LINUX" valign="bottom" height="32px" style="background-color:red" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" /> **|** 
 **UBUNTU**<img alt="UBUNTU" valign="bottom" height="32px" style="text :red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ubuntu.svg" /> **|** 
-**DEBIAN**<img alt="DEBIAN" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/debian/debian\.svg" /> **|** 
-**BASH**<img alt="BASH" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/bash/bash.svg" /> **|** 
+**DEBIAN**<img alt="DEBIAN" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /> **|** 
+**BASH**<img alt="BASH" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> **|** 
 **NODEJS**<img alt="NODEJS" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/node-dot-js.svg" /> **|** 
-**NPM**<img alt="NPM" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/npm/npm-icon.svg" /> **|** 
+**NPM**<img alt="NPM" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" /> **|** 
 **OPENSSL**<img alt="OPENSSL" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/openssl/openssl-icon.svg" /> **|** 
 **PERL**<img alt="PERL" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" /> **|** 
 **PYTHON**<img alt="LPYTHONaravel" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> **|** 
@@ -36,14 +36,14 @@
 **LARAVEL LIVEWIRE**<img alt="Laravel LIVEWIRE" valign="bottom" height="32px" src="https://github.com/detain/svg-logos/blob/master/svg/livewire.svg" /> **|** 
 **LARAVEL HORIZON**<img alt="Laravel HORIZON" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/laravelhorizon/laravelhorizon-icon.svg" /> **|** 
 **LETS ENCRYPT**<img alt="LETS ENCRYPT" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" /> **|** 
-**HTML**<img alt="HTML" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/html/html-icon.svg" /> **|** 
-**CSS**<img alt="CSS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/css/css-icon.svg" /> **|** 
+**HTML**<img alt="HTML" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> **|** 
+**CSS**<img alt="CSS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" /> **|** 
 **TAILWIND CSS**<img alt="TAILWIND CSS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> **|** 
-**SASS**<img alt="SASS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/sass/sass-icon.svg" /> **|** 
+**SASS**<img alt="SASS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" /> **|** 
 **WORDPRESS**<img alt="WORDPRESS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" /> **|** 
-**WOOCOMMERCE**<img alt="WOOCOMMERCE" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/woocommerce/woocommerce-icon.svg" /> **|** 
+**WOOCOMMERCE**<img alt="WOOCOMMERCE" valign="bottom" height="32px" src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/woocommerce.svg" /> **|** 
 **ZEND FRAMEWORK**<img alt="ZEND FRAMEWORK" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/zendframework/zendframework-icon.svg" /> **|** 
-**AWS**<img alt="AWS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/amazonaws/amazonaws-icon.svg" /> **|** 
+**AWS**<img alt="AWS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" /> **|** 
 **DIGITAL OCEAN**<img alt="DIGITAL OCEAN" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" /> **|** 
 **BLENDER 3D**<img alt="BLENDER 3D" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" /> **|** 
 **RSA PKI CRYPTOGRAPHY**<img alt="RSA PKI CRYPTOGRAPHY" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/rsa/rsa-icon.svg" /> **|** 
