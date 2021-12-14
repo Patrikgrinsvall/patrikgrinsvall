@@ -33,6 +33,7 @@
 **APACHE**<img alt="Laravel" valign="bottom" height="24px" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" /> **|** 
 **LARAVEL**<img alt="Laravel" valign="bottom" height="24px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" /> **|** 
 **LARAVEL NOVA**<img alt="Laravel" valign="bottom" height="24px" src="https://www.vectorlogo.zone/logos/laravelnova/laravelnova-icon.svg" /> **|** 
+**LARAVEL LIVEWIRE**<img alt="Laravel" valign="bottom" height="24px" src="https://github.com/detain/svg-logos/blob/master/svg/livewire.svg" /> **|** 
 **LARAVEL HORIZON**<img alt="Laravel" valign="bottom" height="24px" src="https://www.vectorlogo.zone/logos/laravelhorizon/laravelhorizon-icon.svg" /> **|** 
 **LETS ENCRYPT**<img alt="Laravel" valign="bottom" height="24px" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" /> **|** 
 **HTML**<img alt="Laravel" valign="bottom" height="24px" src="https://www.vectorlogo.zone/logos/html/html-icon.svg" /> **|** 
@@ -45,6 +46,7 @@
 **AWS**<img alt="Laravel" valign="bottom" height="24px" src="https://www.vectorlogo.zone/logos/amazonaws/amazonaws-icon.svg" /> **|** 
 **DIGITAL OCEAN**<img alt="Laravel" valign="bottom" height="24px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" /> **|** 
 **BLENDER 3D**<img alt="Laravel" valign="bottom" height="24px" src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" /> **|** 
+**RSA PKI CRYPTOGRAPHY**<img alt="Laravel" valign="bottom" height="24px" src="https://www.vectorlogo.zone/logos/rsa/rsa-icon.svg" /> **|** 
 
 <br/>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
