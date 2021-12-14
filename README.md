@@ -23,7 +23,7 @@
 **OPENSSL**<img alt="OPENSSL" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/openssl/openssl-icon.svg" /> **|** 
 **PERL**<img alt="PERL" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" /> **|** 
 **PYTHON**<img alt="LPYTHONaravel" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> **|** 
-**QT**<img alt="QT" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/qt/qt-icon.svg" /> **|** 
+**QT**<img alt="QT" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /> **|** 
 **REDIS**<img alt="REDIS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" /> **|** 
 **MYSQL**<img alt="MYSQL" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /> **|** 
 **MONGODB**<img alt="MONGODB" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /> **|** 
