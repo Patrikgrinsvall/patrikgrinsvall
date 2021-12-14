@@ -4,7 +4,7 @@
 Developer, Freelancer and owner of Silent Ridge Media. Celebrating 30 years of programming.
 
 ## Contact and references
--  <a href="https://www.linkedin.com/in/patrikgrinsvall/"><img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />**LINKED IN**</a>
+-  <a href="https://www.linkedin.com/in/patrikgrinsvall/"><img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />**LINKEDIN**</a>
 -  <a href="patrik@silentridge.io"><img align="left" alt="'Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />**MAIL**</a>
 -  <a href="https://www.upwork.com/f/patrikgrinsvall3/"><img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" />**UPWORK PROFILE**</a>
 -  ⭐️ [Patrikgrinsvall](https://github.com/patrikgrinsvall) **GITHUB**
