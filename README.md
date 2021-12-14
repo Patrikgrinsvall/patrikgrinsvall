@@ -11,6 +11,9 @@
 
 ### Professional with the following technologies and tools
 
+<div style="color:red">a</div>
+<div style="background-color:red">a</div>
+<div style="text:red">a</div>
 **PHP** <img alt="php" valign="bottom" height="24px" style="color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/php.svg" />  **|** 
 **LINUX**<img alt="Laravel" valign="bottom" height="24px" style="background-color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linux.svg" /> **|** 
 **UBUNTU**<img alt="Laravel" valign="bottom" height="24px" style="text :red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ubuntu.svg" /> **|** 
