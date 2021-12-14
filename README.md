@@ -1,6 +1,4 @@
 # ✨ Patrik Grinsvall ✨
-
-
 <a href="https://www.linkedin.com/in/patrikgrinsvall/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
@@ -8,12 +6,13 @@
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 
-## Celebrating 30 years of programming and computer science
 
-### Are or have worked professionally with the following technologies and tools
+## ⭐️ Celebrating 30 years of programming and computer science ⭐️
+
+### Professional with the following technologies and tools <br/><p>
 <img align="left" alt="php" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/php.svg" />  PHP |
 <img align="left" alt="laravel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/laravel.svg" /> Laravel |
-
+</p>
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
