@@ -1,4 +1,8 @@
 # ✨ Patrik Grinsvall ✨
+
+## About
+Developer, Freelancer and owner of Silent Ridge Media. Celebrating 30 years of programming.
+
 ## Contact
 <a href="https://www.linkedin.com/in/patrikgrinsvall/">
   <img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
@@ -6,6 +10,9 @@
 <a href="patrik@silentridge.io">
   <img align="left" alt="'Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
+
+
+
 
 ## Toolbox
 **PHP** <img alt="php" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />  **|** 
