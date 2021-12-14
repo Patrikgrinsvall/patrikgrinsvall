@@ -3,18 +3,12 @@
 ## About
 Developer, Freelancer and owner of Silent Ridge Media. Celebrating 30 years of programming.
 
-## Contact
-<a href="https://www.linkedin.com/in/patrikgrinsvall/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>
-<a href="patrik@silentridge.io">
-  <img align="left" alt="'Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>
-<a href="https://www.upwork.com/f/patrikgrinsvall3/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" />
-</a>
-⭐️ [Patrikgrinsvall](https://github.com/patrikgrinsvall)
-⭐️ [Patrikgrinsvall](https://github.com/silentpatrik)
+## Contact and references
+-  <a href="https://www.linkedin.com/in/patrikgrinsvall/"><img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
+-  <a href="patrik@silentridge.io"><img align="left" alt="'Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>
+-  <a href="https://www.upwork.com/f/patrikgrinsvall3/"><img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" /></a>
+-  ⭐️ [Patrikgrinsvall](https://github.com/patrikgrinsvall)
+-  ⭐️ [Patrikgrinsvall](https://github.com/silentpatrik)
 
 
 ## Usually working with, but not limited to:
@@ -67,7 +61,7 @@ Developer, Freelancer and owner of Silent Ridge Media. Celebrating 30 years of p
 
 ## Current status
 
-- 💬 Freelancer Open to discuss projects, don't hesitate to message me.
+- 💬 Open to discuss projects, don't hesitate to contact me!
 
 
 
