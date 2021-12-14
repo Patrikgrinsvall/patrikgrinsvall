@@ -27,7 +27,7 @@
 **NGINX**<img alt="NGINX" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" /> **|** 
 **APACHE**<img alt="APACHE" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" /> **|** 
 **LARAVEL**<img alt="LARAVEL" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" /> **|** 
-**LARAVEL NOVA**<img alt="Laravel NOVA" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/laravelnova/laravel-original.svg" /> **|** 
+**LARAVEL NOVA**<img alt="Laravel NOVA" valign="bottom" height="32px" src="https://www.iconbolt.com/preview/twitter/coreui-brand/laravel-nova.svg" /> **|** 
 **LARAVEL LIVEWIRE**<img alt="Laravel LIVEWIRE" valign="bottom" height="32px" src="https://github.com/detain/svg-logos/blob/master/svg/livewire.svg" /> **|** 
 **LARAVEL HORIZON**<img alt="Laravel HORIZON" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/laravelhorizon/laravelhorizon-icon.svg" /> **|** 
 **LETS ENCRYPT**<img alt="LETS ENCRYPT" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" /> **|** 
