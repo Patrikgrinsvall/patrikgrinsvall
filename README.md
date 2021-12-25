@@ -7,14 +7,11 @@ Developer, Freelancer and owner of Silent Ridge Media. Celebrating 30 years of p
 -  <a href="https://www.linkedin.com/in/patrikgrinsvall/"><img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />**LINKEDIN**</a>
 -  <a href="patrik@silentridge.io"><img align="left" alt="'Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />**MAIL**</a>
 -  <a href="https://www.upwork.com/f/patrikgrinsvall3/"><img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" />**UPWORK PROFILE**</a>
--  ⭐️⭐️ [Patrikgrinsvall](https://github.com/patrikgrinsvall) **GITHUB**
--  ⭐️⭐️ [silentpatrik](https://github.com/silentpatrik) **GITHUB 2**
+-  ⭐️ [Patrikgrinsvall](https://github.com/patrikgrinsvall) **GITHUB**
+-  ⭐️ [silentpatrik](https://github.com/silentpatrik) **GITHUB 2**
 
 
 ## Usually working with
-But not limited to
-
-
 _____________________________
 ### Programming, Libraries and development tools
 **PHP** <img alt="php" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />  **|** 
@@ -27,7 +24,7 @@ _____________________________
 **LARAVEL LIVEWIRE** <img alt="Laravel LIVEWIRE" valign="bottom" height="32px" src="https://github.com/detain/svg-logos/blob/master/svg/livewire.svg" /> **|** 
 **QT** <img alt="QT" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /> **|** 
 **WORDPRESS** <img alt="WORDPRESS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" /> **|** 
-**WOOCOMMERCE** <img alt="WOOCOMMERCE" valign="bottom" height="32px"  src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/woocommerce.svg" /> **|** 
+**WOOCOMMERCE** <img alt="WOOCOMMERCE" valign="bottom" height="32px"  src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/woocommerce.svg" />
 
 
 
@@ -38,7 +35,7 @@ _____________________________
 **CSS** <img alt="CSS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" /> **|** 
 **TAILWIND CSS** <img alt="TAILWIND CSS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> **|** 
 **SASS** <img alt="SASS" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" /> **|** 
-**BLENDER** <img alt="BLENDER 3D" valign="bottom" height="32px" src="https://raw.githubusercontent.com/shgysk8zer0/logos/2a5430335860a50c788905cf2f253b39278819ce/blender.svg" /> **|** 
+**BLENDER** <img alt="BLENDER 3D" valign="bottom" height="32px" src="https://raw.githubusercontent.com/shgysk8zer0/logos/2a5430335860a50c788905cf2f253b39278819ce/blender.svg" /> 
 
 
 
@@ -48,7 +45,7 @@ _____________________________
 **MYSQL** <img alt="MYSQL" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /> **|** 
 **MONGODB** <img alt="MONGODB" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /> **|** 
 **MARIADB** <img alt="MARIADB" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" /> **|** 
-**SQLITE** <img alt="SQLITE" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" /> **|** 
+**SQLITE** <img alt="SQLITE" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" /> 
 
 
 
@@ -65,7 +62,7 @@ _____________________________
 **OPENSSL** <img alt="OPENSSL" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/openssl/openssl-icon.svg" /> **|** 
 **LETS ENCRYPT** <img alt="LETS ENCRYPT" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" /> **|** 
 **RSA PKI CRYPTOGRAPHY** <img alt="RSA PKI CRYPTOGRAPHY" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/rsa/rsa-icon.svg" /> **|** 
-**GIT**<img alt="GIT" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> **|** 
+**GIT**<img alt="GIT" valign="bottom" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
 
 
 
